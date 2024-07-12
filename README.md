@@ -7,3 +7,5 @@
 </ul>
 
 <h2>Segue uma foto de demonstração do modelo de site</h2>
+
+<img src="https://github.com/viannaingrid/tela_login/blob/main/assets/img/previa.png">
